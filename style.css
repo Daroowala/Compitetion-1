@@ -20,5 +20,35 @@
     top: 13px;
 }
 .navbar-brand{
-    margin: 0px 40px;
+    margin: 20px 40px;
+}
+.background{
+    width: 100%;
+    height: 90vh;
+    position: absolute;
+    top: 100px;
+    z-index: -1;
+}
+.find{
+    position: absolute;
+    top: 350px;
+    left: 56px;
+    font-weight: bold;
+    font-size: 250%;
+} 
+.joy{
+    position: absolute;
+    top: 320px;
+    left: 58px;
+}
+.learn{
+    color: white;
+    background-color: rgb(245, 32, 75);
+    width: 150px;
+    height: 50px;
+    font-size: large;
+    position: absolute;
+    top: 440px;
+    left: 56px;
+    border: none;
 }
