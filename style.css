@@ -1,0 +1,24 @@
+.nav-link{
+    color: black;
+    
+}
+.fa-magnifying-glass{
+    position: absolute;
+    top: 30px;
+    left: 660px;
+    font-size: small;
+    color: rgb(158, 154, 154);
+}
+.navbar-nav{
+    position: absolute;
+    right: 100px;
+    font-size: small;
+}
+.fa-magnifying-glass{
+    position: absolute;
+    left: 450px;
+    top: 13px;
+}
+.navbar-brand{
+    margin: 0px 40px;
+}
