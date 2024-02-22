@@ -35,14 +35,18 @@
     left: 56px;
     font-weight: bold;
     font-size: 250%;
+    font-family: Roboto, sans-serif;
 } 
 .joy{
     position: absolute;
     top: 320px;
     left: 58px;
+    font-family: Roboto, sans-serif;
+    font-weight: 700;
+    letter-spacing: 2px;
 }
-.learn{
-    color: white;
+.btn-group{
+    
     background-color: rgb(245, 32, 75);
     width: 150px;
     height: 50px;
@@ -51,4 +55,59 @@
     top: 440px;
     left: 56px;
     border: none;
+    font-family: Roboto, sans-serif;
+}
+.btn{
+    color: white;
+    border: none;
+}
+/* .location{
+    width: 320px;
+    height: 40px;
+    background-color: rgb(220, 229, 240);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form{
+    border: 1px solid black;
+    width: 40%;
+    height: 40%;
+    background-color: white;
+    position: absolute;
+    left: 555px;
+    top: 280px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.types{
+    width: 320px;
+    height: 40px;
+}
+.property{
+    width: 320px;
+    height: 40px;
+    background-color: rgb(220, 229, 240);
+}
+.bedroom{
+    width: 320px;
+    height: 40px;
+    background-color: rgb(220, 229, 240);
+}
+.bathroom{
+    width: 320px;
+    height: 40px;
+    background-color: rgb(220, 229, 240);
+} */
+.dropdown{
+    display: inline-block;
+}
+.btn-link{
+    background-color: rgb(219, 238, 245);
+    text-decoration: none;
+    
+    
+   
+
 }
