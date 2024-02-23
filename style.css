@@ -145,6 +145,15 @@ background-color: rgb(228, 238, 238);
     margin: 15px 18px;
     color:lightslategray ;
 }
+.card1{
+    border: 1px solid lightslategray;
+    width: 140px;
+    height: 180px;
+    position: absolute;
+    top: 200px;
+    left: 477px;
+}
+
 
 
 
@@ -169,5 +178,14 @@ background-color: rgb(228, 238, 238);
     left: 90px;
     top: 420px;
 }
-
+.welcome{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 1150px;
+}
+.sel{
+    margin: 15px 20px;
+    font-size: 225%;
+}
 }
