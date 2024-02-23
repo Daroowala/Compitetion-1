@@ -61,53 +61,33 @@
     color: white;
     border: none;
 }
-/* .location{
-    width: 320px;
-    height: 40px;
-    background-color: rgb(220, 229, 240);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.form{
+
+.box{
     border: 1px solid black;
-    width: 40%;
-    height: 40%;
-    background-color: white;
-    position: absolute;
-    left: 555px;
-    top: 280px;
+    width: 34%;
+    height: 60%;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: flex-end;
+    margin: 20% 62%;
+    background-color: white;
 }
-.types{
-    width: 320px;
-    height: 40px;
+.heading{
+display: flex;
+justify-content: center;
+font-size: large;
+font-weight: 600;
 }
-.property{
-    width: 320px;
-    height: 40px;
-    background-color: rgb(220, 229, 240);
+.p1{
+    margin: 0% 10%;
+    width: 80%;
 }
-.bedroom{
-    width: 320px;
-    height: 40px;
-    background-color: rgb(220, 229, 240);
-}
-.bathroom{
-    width: 320px;
-    height: 40px;
-    background-color: rgb(220, 229, 240);
-} */
-.dropdown{
-    display: inline-block;
-}
-.btn-link{
-    background-color: rgb(219, 238, 245);
-    text-decoration: none;
-    
-    
-   
+
+
+
+@media (max-width: 420px){
+.btn-group{
+    position: absolute;
+    top: 470px; 
+}    
 
 }
