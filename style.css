@@ -125,8 +125,23 @@ background-color: rgb(228, 238, 238);
 .welcome{
     border: 1px solid black;
     width: 100%;
-    margin: -7% 0%;
+    position: absolute;
+    top: 900px;
+    display: flex;
 }
+.wel-img{
+    display: flex;
+    
+}
+.sel-center{
+    display: flex;
+    flex-direction: column;
+    align-items: end;   
+}
+.sel{
+    margin: 10px 57px;
+}
+
 
 
 
