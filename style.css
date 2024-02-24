@@ -22,13 +22,7 @@
 .navbar-brand{
     margin: 20px 10px;
 }
-.background{
-    width: 100%;
-    height: 90vh;
-    position: absolute;
-    top: 100px;
-    z-index: -1;
-}
+cc
 .find{
     position: absolute;
     top: 350px;
@@ -161,10 +155,17 @@ background-color: rgb(228, 238, 238);
 
 
 
-@media (max-width: 420px){
+@media (max-width: 720px){
 .btn-group{
     position: absolute;
     top: 470px; 
+}
+.background{
+    width: 113%;
+    height: 90vh;
+    position: absolute;
+    top: 100px;
+    z-index: -1;
 }    
 .box{
     position: absolute;
