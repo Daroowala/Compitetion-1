@@ -235,9 +235,9 @@ background-color: rgb(228, 238, 238);
 
 
 
-@media (max-width: 720px){
+@media (max-width: 320px){
 .background{
-    width: 107%;
+    width: 146%;
     height: 123vh;
     position: absolute;
     top: 100px;
