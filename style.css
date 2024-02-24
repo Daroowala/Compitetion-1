@@ -123,7 +123,7 @@ background-color: rgb(228, 238, 238);
     border-radius: 5px;
 }
 .welcome{
-    border: 1px solid black;
+    /* border: 1px solid black; */
     width: 100%;
     position: absolute;
     top: 900px;
@@ -237,7 +237,7 @@ background-color: rgb(228, 238, 238);
 
 @media (max-width: 720px){
 .background{
-    width: 103%;
+    width: 107%;
     height: 123vh;
     position: absolute;
     top: 100px;
@@ -249,7 +249,7 @@ background-color: rgb(228, 238, 238);
 }    
 .box{
     position: absolute;
-    top: 490px;
+    top: 600px;
     left: -360px;
     width: 80%;
     height: 500px;
@@ -264,7 +264,7 @@ background-color: rgb(228, 238, 238);
     flex-direction: column;
     align-items: center;
     position: absolute;
-    top: 1230px;
+    top: 1330px;
 }
 .sel{
     margin: 20px 82px;
@@ -274,5 +274,30 @@ background-color: rgb(228, 238, 238);
     margin: -4px -10px;
     color:lightslategray ;
 
+}.card1{
+    position: absolute;
+    left: 130px;
+    top: 600px;
+    display: flex;
+    width: 470px;
+    height: 180px;
+}
+.card2{
+    display: flex;
+    position: absolute;
+    left: 130px;
+    top: 780px;
+    display: flex;
+    width: 470px;
+    height: 180px;
+}
+.card3{
+    display: flex;
+    position: absolute;
+    left: 130px;
+    top: 960px;
+    display: flex;
+    width: 470px;
+    height: 180px;
 }
 }
