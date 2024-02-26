@@ -229,6 +229,23 @@ background-color: rgb(228, 238, 238);
     left: 20px;
     color: lightslategray;
 }
+.top-rated{
+    border: 1px solid black;
+    width: 100%;
+    height: 150px;
+    display: flex;
+    position: absolute;
+    top: 1450px;
+    
+}
+.top{
+    display: flex;
+    
+}
+.p5{
+    display: flex;
+    align-items: end;
+}
 
 
 
